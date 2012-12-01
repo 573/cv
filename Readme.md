@@ -3,6 +3,8 @@ Latest version of my CV, typesetted in Helvetica and using colors inspired by Mo
 
 Uses TikZ for the header, XeTeX and fontspec to use Helvetica Neue, biblatex to print my publications and textpos for the aside.
 
+# Windows
+Install the [xits fonts](http://ctan.org/tex-archive/fonts/xits). Run the compilation of the `cv.tex` file with `xelatex cv.tex`, a default `miktex` installation  will ask you to install the further needed proper packages likewise.
 
 # License
 
